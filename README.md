@@ -1,4 +1,4 @@
-# 🧠 Project: BiToSort  
+# 🧠 Project: BiToSort - A New Sorting Algorithm 
 *A Bidirectional Topological Sort Algorithm for Enhanced DAG Processing*
 
 Welcome to **BiToSort** — an innovative algorithm designed to enhance pathfinding in **Directed Acyclic Graphs (DAGs)** by leveraging a **bidirectional topological sort**. Inspired by **Double Selection Sort**, this algorithm simultaneously processes from both ends of the graph, providing optimized sorting and traversal ideal for scheduling, dependency resolution, and more!
